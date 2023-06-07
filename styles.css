@@ -134,10 +134,7 @@ p {
     }
 
     #section-left {
-        display: block;
         position: static;
-        max-width: 100%;
-        margin: 0 auto;
     }
 
     img {
@@ -147,7 +144,7 @@ p {
         width: 354px;
         height: 317px;
         display: block;
-        max-width: 90%;
+        max-width: 80%;
     }
 
     #section-right {
