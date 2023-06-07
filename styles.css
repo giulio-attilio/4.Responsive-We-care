@@ -135,6 +135,7 @@ p {
 
     #section-left {
         position: static;
+        max-width: 95%;
     }
 
     img {
@@ -150,7 +151,7 @@ p {
     #section-right {
         display: block;
         position: static;
-        max-width: 100%;
+        max-width: 95%;
         margin: 0 auto;
     }
 
